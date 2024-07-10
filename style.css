@@ -5,3 +5,14 @@
 .th1{
     color: #c6dbe2;
 }
+
+input{
+    background-color: #5c6898 ;
+}
+
+a{
+    text-decoration: none;
+}
+.c:active{
+    background-color: #5c6898;
+}
